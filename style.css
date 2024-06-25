@@ -194,3 +194,11 @@ input[type=number]::-webkit-inner-spin-button {
   font-weight: 700;
   text-transform: uppercase;
 }
+
+footer h6 {
+    font-size: small;
+    color: #6eb7e4;
+    width: 100%;
+    margin-left: 15px;
+    padding-top: 30px;
+}
