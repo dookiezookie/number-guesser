@@ -196,10 +196,13 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 footer h6 {
-    font-size: small;
-    color: #6eb7e4;
-    width: 100%;
-    text-align: center;
-    margin-left: 15px;
-    padding-top: 30px;
+  color: #6eb7e4;
+  clear: both;
+  font-size: small;
+  color: #6B8E23;
+  padding-top: 10px;
+  margin-bottom: 0cm;
+  margin-top: 0cm;
+  margin-right: 15px;
+  text-align: center;
 }
